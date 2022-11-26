@@ -1,0 +1,4 @@
+luma~=2.1.5
+luma.oled~=3.5
+psutil~=5.9.4
+netifaces~=0.11.0
